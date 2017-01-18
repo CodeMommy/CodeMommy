@@ -29,4 +29,4 @@ Just [Contact us](#contact).
 
 - - -
 
-:smile: Hello from Human Beings.
+:smile:
