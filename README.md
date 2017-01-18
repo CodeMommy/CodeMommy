@@ -4,6 +4,8 @@
 
 CodeMommy is a project of free, professional and open source under license [Apache 2.0](LICENSE), service for development.
 
+Visit the [Official Website](http://www.codemommy.com) to get all the sub projects.
+
 The creator is [Candison November](http://www.kandisheng.com).
 
 ## Contact
