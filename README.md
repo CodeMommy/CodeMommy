@@ -10,8 +10,8 @@ CodeMommy is a free and open source project.
 
 ## Join us
 
-Just [Contact us](#Contact)
+Just [Contact us](#contact)
 
 ## Donation
 
-Just wait
+:smile:
