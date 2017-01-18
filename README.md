@@ -19,4 +19,6 @@ Just [Contact us](#contact).
 
 ## Donation
 
+- [PayPal](https://www.paypal.me/kandisheng)
+
 :smile:
