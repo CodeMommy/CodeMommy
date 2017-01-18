@@ -1,5 +1,9 @@
 # CodeMommy
 
+`Free`
+`Professional`
+`Open Source`
+
 ## About
 
 CodeMommy is a project of free, professional and open source under license [Apache 2.0](LICENSE), service for development.
@@ -22,5 +26,7 @@ Just [Contact us](#contact).
 ## Donation
 
 - [PayPal](https://www.paypal.me/kandisheng)
+
+- - -
 
 :smile:
